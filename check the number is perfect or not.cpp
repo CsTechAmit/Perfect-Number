@@ -1,3 +1,4 @@
+// 1+2+3=6
 #include<stdio.h>
 main()
 {
